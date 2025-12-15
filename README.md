@@ -56,4 +56,6 @@ View on Etherscan: [Link to Sepolia Etherscan]
 👨‍💻 Author
 Prashant Bhatt Banker | Technologist | Blockchain Developer
 
+🚀 Deployed ContractThis token is currently live on the Ethereum Sepolia Testnet.ParameterValueContract Address[0x365acEC22BC33363a38E43Ca168A228C32CC9502]Token SymbolBTTDecimals18
+
 LinkedIn | GitHub Profile
