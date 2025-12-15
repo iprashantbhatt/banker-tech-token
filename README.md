@@ -44,3 +44,16 @@ contract BankerTechToken is ERC20, Ownable {
         _mint(msg.sender, 1000000 * 10 ** decimals());
     }
 }
+
+
+🚀 Deployment Verification
+This contract is deployed live on the Ethereum Sepolia Testnet.
+
+Contract Address: [PASTE_YOUR_CONTRACT_ADDRESS_HERE]
+
+View on Etherscan: [Link to Sepolia Etherscan]
+
+👨‍💻 Author
+Prashant Bhatt Banker | Technologist | Blockchain Developer
+
+LinkedIn | GitHub Profile
